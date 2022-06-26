@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=-120&user=YgMIzXQAAAAJ"
-  email            :
+  email            : mireia.vallescolomer@unitn.it
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MireiaVallescolomer"
+  github           : #"MireiaVallescolomer"
   google_plus      :
   keybase          :
   instagram        :
