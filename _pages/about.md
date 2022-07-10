@@ -18,14 +18,11 @@ Towards the end of my PhD another question became increasingly important to me: 
 **Education**
 ------
 **PhD in Biomedical Sciences, 2019**
-
 KU Leuven (Belgium)
 
 **MSc in Biomolecular Sciences, 2014**
-
 VUB (Belgium)
 
 **BSc in Biotechnology, 2012**
-
 UAB (Spain)
 
