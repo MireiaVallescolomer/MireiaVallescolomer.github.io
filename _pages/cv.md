@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,9 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**PhD in Biomedical Sciences, 2019**
+KU Leuven (Belgium)
+
+**MSc in Biomolecular Sciences, 2014**
+VUB (Belgium)
+
+**BSc in Biotechnology, 2012**
+UAB (Spain)
+
+
+**Education**
+------
+
 
 Work experience
 ======
