@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-[CV]()
+[CV](https://github.com/MireiaVallescolomer/MireiaVallescolomer.github.io/blob/master/_pages/ecv_MVC_July2022.pdf)
 
