@@ -15,14 +15,3 @@ My background is in Microbiology and Computational Biology (UAB, Spain and VUB, 
 Towards the end of my PhD another question became increasingly important to me: how do we acquire such health- and disease-associated bacteria? By strain-level profiling approaches, I currently investigate how human-associated microorganisms are transmitted among individuals and spread in populations.
 
 
-**Education**
-------
-**PhD in Biomedical Sciences, 2019**
-KU Leuven (Belgium)
-
-**MSc in Biomolecular Sciences, 2014**
-VUB (Belgium)
-
-**BSc in Biotechnology, 2012**
-UAB (Spain)
-
