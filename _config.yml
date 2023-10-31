@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mireia Valles-Colomer"
   avatar           : "profile_mvc.png"
-  bio              : "Postdoctoral researcher"
-  location         : "Trento, Italy"
+  bio              : "Tenure-track group leader"
+  location         : "Barcelona, Spain"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=-120&user=YgMIzXQAAAAJ"
-  email            : mireia.vallescolomer@unitn.it
+  email            : mireia.valles@upf.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
